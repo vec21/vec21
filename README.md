@@ -14,7 +14,7 @@
 - Artificial Intelligence 🤖  
 - Open Source 🌍  
 - Web Development ⚙️  
-- Social Impact Projects 🌱  
+- Social Impact Projects   
 
 📫 **Reach me at**: `veccpro@gmail.com`  
 
@@ -46,3 +46,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+ComfyUI
